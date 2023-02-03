@@ -1,7 +1,7 @@
 <!doctype html>
-<h1>DEVOPS FINAL PROJECT!</h1>
+<h1>Finally!</h1>
 <%
-   for (int i = 0; i < 20; ++i) {
-      out.println("<p>I LOVE rrrDEVOPS (Final Semester!)</p>");
+   for (int i = 0; i < 7; ++i) {
+      out.println("<p>I LOVE PIZZA</p>");
   }
 %>
